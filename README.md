@@ -207,7 +207,7 @@ The project uses binary file handling to:
 ## Decoded Output
 
 ```text id="wqf1o3"
-Tiger Zinda Hai
+Coordinates confirmed. Proceed silently.
 ```
 
 ---
@@ -251,7 +251,7 @@ Compressed image formats may require different encoding techniques.
 Mohammed Maaz
 
 LinkedIn:
-[www.linkedin.com/in/mdm-mohammedmaaz](https://www.linkedin.com/in/mdm-mohammedmaaz?utm_source=chatgpt.com)
+[www.linkedin.com/in/mdm-mohammedmaaz](https://www.linkedin.com/in/mdm-mohammedmaaz)
 
 ---
 
